@@ -14,10 +14,6 @@ var app = express();
 app.set('views', path.join(__dirname, 'views'));
 
 //app.set('view engine', 'jade');
-<<<<<<< HEAD
-app.set('view engine', 'hbs');
-=======
->>>>>>> parent of c372dc9... set html to be the templating engine
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
